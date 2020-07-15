@@ -44,7 +44,7 @@ services.
   s.dependency 'FirebaseCore', '~> 6.8'
   s.dependency 'FirebaseInstallations', '~> 1.0'
   s.dependency 'GoogleUtilities/UserDefaults', '~> 6.5'
-  s.dependency 'GoogleUtilities/Environment', '~> 6.5'
+  s.dependency 'GoogleUtilities/Environment', '~> 6.7'
 
   s.test_spec 'unit' do |unit_tests|
     unit_tests.platforms = {:ios => '8.0', :osx => '10.11', :tvos => '10.0'}
