@@ -52,9 +52,9 @@ device, and it is completely free.
   s.dependency 'FirebaseCore', '~> 6.8'
   s.dependency 'FirebaseInstanceID', '~> 4.3'
   s.dependency 'GoogleUtilities/AppDelegateSwizzler', '~> 6.7'
-  s.dependency 'GoogleUtilities/Reachability', '~> 6.5'
+  s.dependency 'GoogleUtilities/Reachability', '~> 6.7'
   s.dependency 'GoogleUtilities/Environment', '~> 6.7'
-  s.dependency 'GoogleUtilities/UserDefaults', '~> 6.5'
+  s.dependency 'GoogleUtilities/UserDefaults', '~> 6.7'
   s.dependency 'Protobuf', '~> 3.9', '>= 3.9.2'
 
   s.test_spec 'unit' do |unit_tests|
