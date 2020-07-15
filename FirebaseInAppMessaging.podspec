@@ -51,7 +51,7 @@ See more product details at https://firebase.google.com/products/in-app-messagin
   s.dependency 'FirebaseInstallations', '~> 1.1'
   s.dependency 'GoogleDataTransportCCTSupport', '~> 3.1'
   s.dependency 'FirebaseABTesting', '~> 3.2'
-  s.dependency 'GoogleUtilities/Environment', '~> 6.5'
+  s.dependency 'GoogleUtilities/Environment', '~> 6.7'
   s.dependency 'nanopb', '~> 1.30905.0'
 
   s.test_spec 'unit' do |unit_tests|
