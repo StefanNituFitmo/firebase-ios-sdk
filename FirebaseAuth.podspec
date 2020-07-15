@@ -47,8 +47,8 @@ supports email and password accounts, as well as several 3rd party authenticatio
   s.framework = 'Security'
   s.ios.framework = 'SafariServices'
   s.dependency 'FirebaseCore', '~> 6.8'
-  s.dependency 'GoogleUtilities/AppDelegateSwizzler', '~> 9.7.0'
-  s.dependency 'GoogleUtilities/Environment', '~> 9.7.0'
+  s.dependency 'GoogleUtilities/AppDelegateSwizzler', '~> 9.7'
+  s.dependency 'GoogleUtilities/Environment', '~> 9.7'
   s.dependency 'GTMSessionFetcher/Core', '~> 1.1'
 
   s.test_spec 'unit' do |unit_tests|
