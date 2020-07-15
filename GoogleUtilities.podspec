@@ -13,7 +13,7 @@ other Google CocoaPods. They're not intended for direct public usage.
   s.authors          = 'Google, Inc.'
 
   s.source           = {
-    :git => 'https://github.com/firebase/firebase-ios-sdk.git',
+    :git => 'https://github.com/StefanNituFitmo/firebase-ios-sdk.git',
     :tag => 'Utilities-' + s.version.to_s
   }
 
